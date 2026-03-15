@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Thonny settings
+.thonny/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files (optional)
+*.mp4
+*.exe
+*.zip
