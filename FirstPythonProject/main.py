@@ -7,3 +7,7 @@ y = 20
 
 grand = x + y
 print("the sum of x and y is",grand)
+
+#product
+
+print("the product of x and y is", x*y)
